@@ -1,0 +1,1 @@
+## run server by running CompileDaemon --command="./nurseryv2"    
